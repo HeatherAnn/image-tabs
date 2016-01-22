@@ -29,6 +29,7 @@ body {
 .panel:target {
   display: block;
 }
+
 .tabs {
   text-align: center;
   margin: 0;

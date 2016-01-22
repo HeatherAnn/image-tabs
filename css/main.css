@@ -46,7 +46,7 @@ body{
   color: grey;
   text-decoration: none;
   padding: .5em .5em;
-  border-radius: 20px;
+  border-radius: 30px;
   border: solid grey;
   transition: all 500ms linear;
   position: relative;
